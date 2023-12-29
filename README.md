@@ -4,7 +4,7 @@ This repository contains a Google Colab notebook along with associated CSV and E
 
 ## Files
 
-- **Notebook:** [pre-intiitb.ipynb](/pre-intiitb.ipynb)
+- **Notebook:** [pre-intiitb.ipynb](pre-intiitb.ipynb)
 - **Data Files:**
   - [AH_Excess_Deaths_by_Sex__Age__and_Race_and_Hispanic_Origin_20231228.csv](AH_Excess_Deaths_by_Sex__Age__and_Race_and_Hispanic_Origin_20231228.csv)
   - [000005JU_20231228-194529.xlsx](000005JU_20231228-194529.xlsx)
